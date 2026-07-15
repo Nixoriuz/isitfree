@@ -1,3 +1,10 @@
 {
-  "Is-Free": false
+  "Is-Free": false,
+  "Is-Premium-Free": false,
+  "Version-Number": 1.5,
+  "Is-Tier-1-Free": true,
+  "Is-Tier-2-Free": false,
+  "Is-Tier-3-Free": true,
+  "Is-Tier-4-Free": false,
+  "Is-Tier-5-Free": false
 }
